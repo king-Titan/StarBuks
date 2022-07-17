@@ -1,0 +1,7 @@
+{
+  "jupyter.kernels.filter": [],
+  "files.autoSave": "afterDelay",
+  "editor.accessibilitySupport": "off",
+  "editor.autoIndent": "advanced",
+  "diffEditor.codeLens": true
+}
